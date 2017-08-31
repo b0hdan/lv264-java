@@ -1,0 +1,14 @@
+cd d:/myproject
+git init
+git reset
+git status
+git checkout
+git stash
+git add
+git commit
+git rest --soft head~
+git commit -m "comment"
+git add .
+git merge
+
+changes
